@@ -17,4 +17,7 @@
       <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
     </project>
 
+  <!-- Platform -->
+    <project path="bionic" name="RoninNada/android_bionic" remote="github" revision="8.1" />
+
 </manifest>

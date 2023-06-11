@@ -6,4 +6,7 @@
       <remove-project name="LineageOS/android_build" />
       <remove-project name="LineageOS/android_build_soong" />
 
+    <!-- Platform -->
+      <remove-project name="LineageOS/android_bionic" />
+
 </manifest>    
