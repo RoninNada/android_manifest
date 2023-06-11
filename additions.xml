@@ -19,6 +19,7 @@
 
   <!-- Platform -->
     <project path="bionic" name="RoninNada/android_bionic" remote="github" revision="8.1" />
+    <project path="libcore" name="RoninNada/android_libcore" remote="github" revision="lineage-15.1" />
 
   <!-- Frameworks -->
     <project path="frameworks/av" name="RoninNada/android_frameworks_av" remote="github" revision="lineage-15.1" />
