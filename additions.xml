@@ -34,6 +34,7 @@
     <project path="vendor/lineage" name="RoninNada/android_vendor_lineage" remote="github" revision="lineage-15.1" />
 
   <!-- Packages/Apps/Overlay -->
+    <project path="packages/apps/CustomSettings" name="RoninNada/android_packages_apps_CustomSettings" remote="github" revision="los-15.1" />
     <project path="packages/apps/Settings" name="RoninNada/android_packages_apps_Settings" remote="github" revision="lineage-15.1" />
 
 </manifest>
