@@ -9,6 +9,7 @@
     <!-- Platform -->
       <remove-project name="LineageOS/android_bionic" />
       <remove-project name="LineageOS/android_libcore" />
+      <remove-project name="LineageOS/android_lineage-sdk" />
 
     <!-- Frameworks -->
       <remove-project name="LineageOS/android_frameworks_av" />
