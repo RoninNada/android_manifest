@@ -14,6 +14,9 @@
       <remove-project name="LineageOS/android_frameworks_base" />
       <remove-project name="LineageOS/android_frameworks_native" />
 
+    <!-- System -->
+      <remove-project name="LineageOS/android_system_core" />
+
     <!-- Lineage -->
       <remove-project name="LineageOS/android" />
       <remove-project name="LineageOS/ansible" />
