@@ -10,6 +10,7 @@
       <remove-project name="LineageOS/android_bionic" />
 
     <!-- Frameworks -->
+      <remove-project name="LineageOS/android_frameworks_av" />
       <remove-project name="LineageOS/android_frameworks_base" />
 
     <!-- Lineage -->
