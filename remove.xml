@@ -9,6 +9,9 @@
     <!-- Platform -->
       <remove-project name="LineageOS/android_bionic" />
 
+    <!-- Frameworks -->
+      <remove-project name="LineageOS/android_frameworks_base" />
+
     <!-- Lineage -->
       <remove-project name="LineageOS/android" />
       <remove-project name="LineageOS/ansible" />

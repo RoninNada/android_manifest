@@ -20,4 +20,7 @@
   <!-- Platform -->
     <project path="bionic" name="RoninNada/android_bionic" remote="github" revision="8.1" />
 
+  <!-- Frameworks -->
+    <project path="frameworks/base" name="RoninNada/android_frameworks_base" remote="github" revision="lineage-15.1" />
+
 </manifest>
