@@ -29,4 +29,7 @@
   <!-- System -->
     <project path="system/core" name="RoninNada/android_system_core" remote="github" revision="lineage-15.1" />
 
+  <!-- Vendor -->
+    <project path="vendor/lineage" name="RoninNada/android_vendor_lineage" remote="github" revision="lineage-15.1" />
+
 </manifest>

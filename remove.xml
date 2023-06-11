@@ -18,6 +18,9 @@
     <!-- System -->
       <remove-project name="LineageOS/android_system_core" />
 
+    <!-- Vendor -->
+      <remove-project name="LineageOS/android_vendor_lineage" />
+
     <!-- Lineage -->
       <remove-project name="LineageOS/android" />
       <remove-project name="LineageOS/ansible" />
