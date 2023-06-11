@@ -12,4 +12,9 @@
       <linkfile src="tools" dest="build/tools" />
     </project>
 
+    <project path="build/soong" name="crdroidandroid/android_build_soong" remote="github" revision="8.1" >
+      <linkfile src="root.bp" dest="Android.bp" />
+      <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
+    </project>
+
 </manifest>
