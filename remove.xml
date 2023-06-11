@@ -22,6 +22,7 @@
       <remove-project name="LineageOS/android_vendor_lineage" />
 
     <!-- Packages/Apps/Overlay -->
+      <remove-project name="LineageOS/android_packages_apps_LineageParts" />
       <remove-project name="LineageOS/android_packages_apps_Settings" />
 
     <!-- Lineage -->
