@@ -36,6 +36,7 @@
 
   <!-- Packages/Apps/Overlay -->
     <project path="packages/apps/CustomSettings" name="RoninNada/android_packages_apps_CustomSettings" remote="github" revision="los-15.1" />
+    <project path="packages/apps/DUI" name="RoninNada/android_packages_apps_DUI" remote="github" revision="lineage-15.1" />
     <project path="packages/apps/LineageParts" name="RoninNada/android_packages_apps_LineageParts" remote="github" revision="lineage-15.1" />
     <project path="packages/apps/Settings" name="RoninNada/android_packages_apps_Settings" remote="github" revision="lineage-15.1" />
 
