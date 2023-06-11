@@ -33,4 +33,7 @@
     <project path="vendor/custom" name="RoninNada/android_vendor_custom" remote="github" revision="oreo" />
     <project path="vendor/lineage" name="RoninNada/android_vendor_lineage" remote="github" revision="lineage-15.1" />
 
+  <!-- Packages/Apps/Overlay -->
+    <project path="packages/apps/Settings" name="RoninNada/android_packages_apps_Settings" remote="github" revision="lineage-15.1" />
+
 </manifest>

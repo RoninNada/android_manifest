@@ -21,6 +21,9 @@
     <!-- Vendor -->
       <remove-project name="LineageOS/android_vendor_lineage" />
 
+    <!-- Packages/Apps/Overlay -->
+      <remove-project name="LineageOS/android_packages_apps_Settings" />
+
     <!-- Lineage -->
       <remove-project name="LineageOS/android" />
       <remove-project name="LineageOS/ansible" />
