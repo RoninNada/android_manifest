@@ -76,4 +76,9 @@
   <!-- Device Stuff -->
     <project path="device/lineage/sepolicy" name="RoninNada/android_device_lineage_sepolicy" remote="github" revision="lineage-15.1" />
 
+    <!-- Hammerhead -->
+      <project path="device/lge/hammerhead" name="RoninNada/android_device_lge_hammerhead" remote="github" revision="los-15.1" />
+      <project path="kernel/lge/hammerhead" name="RoninNada/android_kernel_lge_hammerhead" remote="github" revision="los-15.1" />
+      <project path="vendor/lge" name="RoninNada/proprietary_vendor_lge_hammerhead" remote="github" revision="los-15.1" />
+
 </manifest>
