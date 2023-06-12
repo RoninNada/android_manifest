@@ -44,4 +44,7 @@
     <project path="packages/apps/Settings" name="RoninNada/android_packages_apps_Settings" remote="github" revision="lineage-15.1" />
     <project path="packages/apps/SlimRecents" name="crdroidandroid/android_packages_apps_SlimRecents" remote="github" revision="8.1" />
 
+  <!-- Packages/Services -->
+    <project path="packages/services/OmniJaws" name="crdroidandroid/android_packages_services_OmniJaws" remote="github" revision="8.1" />
+
 </manifest>
