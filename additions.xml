@@ -26,6 +26,7 @@
     <project path="frameworks/av" name="RoninNada/android_frameworks_av" remote="github" revision="lineage-15.1" />
     <project path="frameworks/base" name="RoninNada/android_frameworks_base" remote="github" revision="lineage-15.1" />
     <project path="frameworks/native" name="RoninNada/android_frameworks_native" remote="github" revision="lineage-15.1" />
+    <project path="frameworks/opt/telephony" name="RoninNada/android_frameworks_opt_telephony" remote="github" revision="lineage-15.1" />
 
   <!-- System -->
     <project path="system/core" name="RoninNada/android_system_core" remote="github" revision="lineage-15.1" />
