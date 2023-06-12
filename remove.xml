@@ -43,6 +43,7 @@
       <remove-project name="platform/external/expat" />
       <remove-project name="platform/external/jemalloc" />
       <remove-project name="LineageOS/android_external_libjpeg-turbo" />
+      <remove-project name="platform/external/libxml2" />
 
     <!-- Lineage -->
       <remove-project name="LineageOS/android" />
