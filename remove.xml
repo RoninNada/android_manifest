@@ -23,9 +23,11 @@
       <remove-project name="LineageOS/android_vendor_lineage" />
 
     <!-- Packages/Apps/Overlay -->
+      <remove-project name="LineageOS/android_packages_apps_DocumentsUI" />
       <remove-project name="LineageOS/android_packages_apps_LineageParts" />
       <remove-project name="LineageOS/android_packages_apps_Settings" />
       <remove-project name="LineageOS/android_packages_apps_Trebuchet" />
+      <remove-project name="LineageOS/android_packages_overlays_Lineage" />
 
     <!-- Lineage -->
       <remove-project name="LineageOS/android" />
