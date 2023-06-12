@@ -39,6 +39,7 @@
     <project path="packages/apps/crDroidFonts" name="crdroidandroid/android_packages_apps_crDroidFonts" remote="github" revision="8.1" />
     <project path="packages/apps/crDroidHome3" name="crdroidandroid/android_packages_apps_crDroidHome3" remote="github" revision="8.1" />
     <project path="packages/apps/CustomSettings" name="RoninNada/android_packages_apps_CustomSettings" remote="github" revision="los-15.1" />
+    <project path="packages/apps/Dialer" name="RoninNada/android_packages_apps_Dialer" remote="github" revision="lineage-15.1" />
     <project path="packages/apps/DocumentsUI" name="RoninNada/android_packages_apps_DocumentsUI" remote="github" revision="lineage-15.1" />
     <project path="packages/apps/DUI" name="RoninNada/android_packages_apps_DUI" remote="github" revision="8.1" />
     <project path="packages/apps/LineageParts" name="RoninNada/android_packages_apps_LineageParts" remote="github" revision="lineage-15.1" />
