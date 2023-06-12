@@ -40,6 +40,7 @@
       <remove-project name="LineageOS/android_packages_services_Telephony" />
 
     <!-- External -->
+      <remove-project name="LineageOS/android_external_chromium-webview" />
       <remove-project name="platform/external/expat" />
       <remove-project name="LineageOS/android_external_freetype" />
       <remove-project name="platform/external/jemalloc" />
