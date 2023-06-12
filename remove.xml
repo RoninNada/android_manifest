@@ -25,6 +25,7 @@
     <!-- Packages/Apps/Overlay -->
       <remove-project name="LineageOS/android_packages_apps_LineageParts" />
       <remove-project name="LineageOS/android_packages_apps_Settings" />
+      <remove-project name="LineageOS/android_packages_apps_Trebuchet" />
 
     <!-- Lineage -->
       <remove-project name="LineageOS/android" />
