@@ -30,6 +30,7 @@
 
   <!-- System -->
     <project path="system/core" name="RoninNada/android_system_core" remote="github" revision="lineage-15.1" />
+    <project path="system/sepolicy" name="RoninNada/android_system_sepolicy" remote="github" revision="lineage-15.1" />
 
   <!-- Vendor -->
     <project path="vendor/custom" name="RoninNada/android_vendor_custom" remote="github" revision="oreo" />
