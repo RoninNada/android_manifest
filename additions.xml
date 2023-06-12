@@ -60,6 +60,7 @@
   <!-- External -->
     <project path="external/DUtils" name="crdroidandroid/android_external_DUtils" remote="github" revision="8.1" />
     <project path="external/expat" name="crdroidandroid/android_external_expat" remote="github" revision="8.1" />
+    <project path="external/freetype" name="RoninNada/android_external_freetype" remote="github" revision="lineage-15.1" />
     <project path="external/google" name="crdroidandroid/android_external_google" remote="github" revision="8.1" />
     <project path="external/jemalloc" name="crdroidandroid/android_external_jemalloc" remote="github" revision="8.1" />
     <project path="external/libjpeg-turbo" name="crdroidandroid/android_external_libjpeg-turbo" remote="github" revision="8.1" />
