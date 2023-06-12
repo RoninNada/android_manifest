@@ -50,6 +50,7 @@
 
   <!-- Packages/Services/Providers -->
     <project path="packages/providers/BlockedNumberProvider" name="RoninNada/android_packages_providers_BlockedNumberProvider" remote="github" revision="lineage-15.1" />
+    <project path="packages/providers/MediaProvider" name="RoninNada/android_packages_providers_MediaProvider" remote="github" revision="lineage-15.1" />
     <project path="packages/services/OmniJaws" name="crdroidandroid/android_packages_services_OmniJaws" remote="github" revision="8.1" />
     <project path="packages/services/Telecomm" name="RoninNada/android_packages_services_Telecomm" remote="github" revision="lineage-15.1" />
     <project path="packages/services/Telephony" name="RoninNada/android_packages_services_Telephony" remote="github" revision="lineage-15.1" />
