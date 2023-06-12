@@ -30,6 +30,9 @@
       <remove-project name="LineageOS/android_packages_apps_Trebuchet" />
       <remove-project name="LineageOS/android_packages_overlays_Lineage" />
 
+    <!-- Packages/Services/Providers -->
+      <remove-project name="LineageOS/android_packages_providers_BlockedNumberProvider" />
+
     <!-- Lineage -->
       <remove-project name="LineageOS/android" />
       <remove-project name="LineageOS/ansible" />
