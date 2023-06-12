@@ -66,6 +66,7 @@
     <project path="external/libjpeg-turbo" name="crdroidandroid/android_external_libjpeg-turbo" remote="github" revision="8.1" />
     <project path="external/libpng" name="RoninNada/android_external_libpng" remote="github" revision="lineage-15.1" />
     <project path="external/libxml2" name="crdroidandroid/android_external_libxml2" remote="github" revision="8.1" />
+    <project path="external/skia" name="RoninNada/android_external_skia" remote="github" revision="lineage-15.1" />
     <project path="external/sqlite" name="crdroidandroid/android_external_sqlite" remote="github" revision="8.1" />
 
   <!-- Device Stuff -->
