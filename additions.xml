@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+  <remote  name="gitlab"
+           fetch="https://gitlab.com/" />
+
   <!-- Build -->
     <project path="build/make" name="RoninNada/android_build_make" remote="github" revision="oreo">
       <copyfile src="core/root.mk" dest="Makefile" />
