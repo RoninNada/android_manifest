@@ -81,4 +81,9 @@
       <project path="kernel/lge/hammerhead" name="RoninNada/android_kernel_lge_hammerhead" remote="github" revision="los-15.1" />
       <project path="vendor/lge" name="RoninNada/proprietary_vendor_lge_hammerhead" remote="github" revision="los-15.1" />
 
+    <!-- Angler -->
+      <project path="device/huawei/angler" name="RoninNada/android_device_huawei_angler" remote="github" revision="los-15.1" />
+      <project path="kernel/huawei/angler" name="RoninNada/android_kernel_huawei_angler" remote="github" revision="los-15.1-upstream" />
+      <project path="vendor/huawei" name="RoninNada/proprietary_vendor_huawei_angler" remote="github" revision="los-15.1" />
+
 </manifest>
