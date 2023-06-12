@@ -44,6 +44,7 @@
       <remove-project name="platform/external/jemalloc" />
       <remove-project name="LineageOS/android_external_libjpeg-turbo" />
       <remove-project name="platform/external/libxml2" />
+      <remove-project name="LineageOS/android_external_sqlite" />
 
     <!-- Lineage -->
       <remove-project name="LineageOS/android" />

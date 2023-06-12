@@ -64,6 +64,7 @@
     <project path="external/jemalloc" name="crdroidandroid/android_external_jemalloc" remote="github" revision="8.1" />
     <project path="external/libjpeg-turbo" name="crdroidandroid/android_external_libjpeg-turbo" remote="github" revision="8.1" />
     <project path="external/libxml2" name="crdroidandroid/android_external_libxml2" remote="github" revision="8.1" />
+    <project path="external/sqlite" name="crdroidandroid/android_external_sqlite" remote="github" revision="8.1" />
 
   <!-- Device Stuff -->
     <project path="device/lineage/sepolicy" name="RoninNada/android_device_lineage_sepolicy" remote="github" revision="lineage-15.1" />
