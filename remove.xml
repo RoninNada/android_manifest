@@ -32,6 +32,7 @@
 
     <!-- Packages/Services/Providers -->
       <remove-project name="LineageOS/android_packages_providers_BlockedNumberProvider" />
+      <remove-project name="LineageOS/android_packages_services_Telecomm" />
 
     <!-- Lineage -->
       <remove-project name="LineageOS/android" />
