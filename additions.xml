@@ -86,4 +86,7 @@
       <project path="kernel/huawei/angler" name="RoninNada/android_kernel_huawei_angler" remote="github" revision="los-15.1-upstream" />
       <project path="vendor/huawei" name="RoninNada/proprietary_vendor_huawei_angler" remote="github" revision="los-15.1" />
 
+  <!-- Tools -->
+    <project path="build/make/tools/docker" name="RoninNada/android_build_docker" remote="github" revision="oreo" />
+
 </manifest>
