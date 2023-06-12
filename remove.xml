@@ -39,6 +39,9 @@
       <remove-project name="LineageOS/android_packages_services_Telecomm" />
       <remove-project name="LineageOS/android_packages_services_Telephony" />
 
+    <!-- External -->
+      <remove-project name="platform/external/expat" />
+
     <!-- Lineage -->
       <remove-project name="LineageOS/android" />
       <remove-project name="LineageOS/ansible" />
