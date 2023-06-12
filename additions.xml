@@ -57,4 +57,7 @@
     <project path="packages/services/Telecomm" name="RoninNada/android_packages_services_Telecomm" remote="github" revision="lineage-15.1" />
     <project path="packages/services/Telephony" name="RoninNada/android_packages_services_Telephony" remote="github" revision="lineage-15.1" />
 
+  <!-- Device Stuff -->
+    <project path="device/lineage/sepolicy" name="RoninNada/android_device_lineage_sepolicy" remote="github" revision="lineage-15.1" />
+
 </manifest>

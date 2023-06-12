@@ -52,5 +52,6 @@
       <remove-project name="LineageOS/lineage_wiki" />
       <remove-project name="LineageOS/contributors-cloud-generator" />
       <remove-project name="LineageOS/scripts" />
+      <remove-project name="LineageOS/android_device_lineage_sepolicy" />
 
 </manifest>    
