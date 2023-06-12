@@ -60,6 +60,8 @@
   <!-- External -->
     <project path="external/DUtils" name="crdroidandroid/android_external_DUtils" remote="github" revision="8.1" />
     <project path="external/expat" name="crdroidandroid/android_external_expat" remote="github" revision="8.1" />
+    <project path="external/google" name="crdroidandroid/android_external_google" remote="github" revision="8.1" />
+
 
   <!-- Device Stuff -->
     <project path="device/lineage/sepolicy" name="RoninNada/android_device_lineage_sepolicy" remote="github" revision="lineage-15.1" />
