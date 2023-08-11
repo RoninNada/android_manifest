@@ -573,6 +573,9 @@
 
   <include name="lineage.xml" />
 
+  <include name="remove.xml" />
+  <include name="additions.xml" />
+
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
 </manifest>

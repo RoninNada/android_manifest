@@ -62,7 +62,7 @@
     <project path="packages/services/Telecomm" name="RoninNada/android_packages_services_Telecomm" remote="github" revision="lineage-15.1" />
     <project path="packages/services/Telephony" name="RoninNada/android_packages_services_Telephony" remote="github" revision="lineage-15.1" />
 
-  <!-- External -->
+  <!-- Prebuilts -->
     <project path="prebuilts/snapdragon-llvm/toolchains/llvm-Snapdragon_LLVM_for_Android_4.0" name="crdroidandroid/android_prebuilts_snapdragon-llvm_toolchains_llvm-Snapdragon-LLVM-for-Android-4.0" remote="github" revision="8.1" clone-depth="1" />
 
   <!-- External -->
