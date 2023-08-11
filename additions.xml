@@ -37,7 +37,7 @@
     <project path="system/extras/su" name="RoninNada/android_system_extras_su" remote="github" revision="lineage-15.1" />
 
   <!-- Vendor -->
-    <project path="vendor/custom" name="RoninNada/android_vendor_custom" remote="github" revision="oreo" />
+    <project path="vendor/custom" name="RoninNada/android_vendor_custom" remote="github" revision="los-15.1" />
     <project path="vendor/lineage" name="RoninNada/android_vendor_lineage" remote="github" revision="los-15.1" />
 
   <!-- Packages/Apps/Overlay -->
