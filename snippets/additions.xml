@@ -18,4 +18,8 @@
     <project path="vendor/custom" name="RoninNada/android_vendor_custom" remote="github" revision="los-20-dev" />
     <project path="vendor/lineage" name="RoninNada/android_vendor_lineage" remote="github" revision="los-20-dev" />
 
+  <!-- Packages/Apps -->
+    <project path="packages/apps/Settings" name="RoninNada/android_packages_apps_Settings" groups="pdk-fs" remote="github" revision="los-20-dev" />
+
+
 </manifest>
