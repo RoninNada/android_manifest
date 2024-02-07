@@ -1130,4 +1130,8 @@
 
   <include name="snippets/lineage.xml" />
   <include name="snippets/pixel.xml" />
+
+  <include name="remove.xml" />
+  <include name="additions.xml" />
+
 </manifest>
