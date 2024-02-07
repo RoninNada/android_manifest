@@ -15,6 +15,7 @@
 
   <!-- Packages/Apps -->
     <remove-project name="LineageOS/android_packages_apps_Settings" />
+    <remove-project name="LineageOS/android_packages_apps_LineageParts" />
 
   <!-- Lineage -->
     <remove-project name="LineageOS/charter" />
