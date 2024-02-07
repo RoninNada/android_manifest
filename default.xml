@@ -1131,7 +1131,7 @@
   <include name="snippets/lineage.xml" />
   <include name="snippets/pixel.xml" />
 
-  <include name="remove.xml" />
-  <include name="additions.xml" />
+  <include name="snippets/remove.xml" />
+  <include name="snippets/additions.xml" />
 
 </manifest>
