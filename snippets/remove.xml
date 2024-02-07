@@ -10,6 +10,9 @@
   <!-- Vendor -->
     <remove-project name="LineageOS/android_vendor_lineage" />
 
+  <!-- System -->
+    <remove-project name="LineageOS/android_system_core" />
+
   <!-- Packages/Apps -->
     <remove-project name="LineageOS/android_packages_apps_Settings" />
 
