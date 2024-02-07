@@ -2,6 +2,7 @@
 <manifest>
 
   <!-- Vendor -->
+    <project path="vendor/custom" name="RoninNada/android_vendor_custom" remote="github" revision="los-20-dev" />
     <project path="vendor/lineage" name="RoninNada/android_vendor_lineage" remote="github" revision="los-20-dev" />
 
 </manifest>
