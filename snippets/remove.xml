@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+  <!-- Frameworks -->
+    <remove-project name="LineageOS/android_frameworks_base" />
+
   <!-- Vendor -->
     <remove-project name="LineageOS/android_vendor_lineage" />
 
