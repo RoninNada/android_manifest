@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="gitlab"
+           fetch="https://gitlab.com/" />
+
+  <!-- External -->
+    <project path="external/chromium-webview" name="divested-mobile/mulch" groups="pdk" remote="gitlab" revision="master" />
+
+</manifest>
